@@ -1,2 +1,2 @@
 # Ignore the downloaded steam data
-/steam-data/*.json
+/records/*.json
